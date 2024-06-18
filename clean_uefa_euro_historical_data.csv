@@ -1,0 +1,338 @@
+HomeTeam,score,AwayTeam,Year,HomeGoals,AwayGoals,TotalGoals
+France,4-5,Yugoslavia,1960,4,5,9
+Czechoslovakia,0-3,Soviet Union,1960,0,3,3
+Czechoslovakia,2-0,France,1960,2,0,2
+Soviet Union,2-1,Yugoslavia,1960,2,1,3
+Spain,2-1,Hungary,1964,2,1,3
+Denmark,0-3,Soviet Union,1964,0,3,3
+Hungary,3-1,Denmark,1964,3,1,4
+Spain,2-1,Soviet Union,1964,2,1,3
+Italy,0-0,Soviet Union,1968,0,0,0
+Yugoslavia,1-0,England,1968,1,0,1
+England,2-0,Soviet Union,1968,2,0,2
+Italy,1-1,Yugoslavia,1968,1,1,2
+Italy,2-0,Yugoslavia,1968,2,0,2
+Hungary,0-1,Soviet Union,1972,0,1,1
+Belgium,1-2,West Germany,1972,1,2,3
+Hungary,1-2,Belgium,1972,1,2,3
+West Germany,3-0,Soviet Union,1972,3,0,3
+Czechoslovakia,3-1,Netherlands,1976,3,1,4
+Yugoslavia,2-4,West Germany,1976,2,4,6
+Netherlands,3-2,Yugoslavia,1976,3,2,5
+Czechoslovakia,2-2,West Germany,1976,2,2,4
+Czechoslovakia,0-1,West Germany,1980,0,1,1
+Netherlands,1-0,Greece,1980,1,0,1
+West Germany,3-2,Netherlands,1980,3,2,5
+Greece,1-3,Czechoslovakia,1980,1,3,4
+Netherlands,1-1,Czechoslovakia,1980,1,1,2
+Greece,0-0,West Germany,1980,0,0,0
+Belgium,1-1,England,1980,1,1,2
+Spain,0-0,Italy,1980,0,0,0
+Belgium,2-1,Spain,1980,2,1,3
+England,0-1,Italy,1980,0,1,1
+Spain,1-2,England,1980,1,2,3
+Italy,0-0,Belgium,1980,0,0,0
+Czechoslovakia,1-1,Italy,1980,1,1,2
+Belgium,1-2,West Germany,1980,1,2,3
+France,1-0,Denmark,1984,1,0,1
+Belgium,2-0,Yugoslavia,1984,2,0,2
+France,5-0,Belgium,1984,5,0,5
+Denmark,5-0,Yugoslavia,1984,5,0,5
+France,3-2,Yugoslavia,1984,3,2,5
+Denmark,3-2,Belgium,1984,3,2,5
+West Germany,0-0,Portugal,1984,0,0,0
+Romania,1-1,Spain,1984,1,1,2
+West Germany,2-1,Romania,1984,2,1,3
+Portugal,1-1,Spain,1984,1,1,2
+West Germany,0-1,Spain,1984,0,1,1
+Portugal,1-0,Romania,1984,1,0,1
+France,3-2,Portugal,1984,3,2,5
+Denmark,1-1,Spain,1984,1,1,2
+France,2-0,Spain,1984,2,0,2
+West Germany,1-1,Italy,1988,1,1,2
+Denmark,2-3,Spain,1988,2,3,5
+West Germany,2-0,Denmark,1988,2,0,2
+Italy,1-0,Spain,1988,1,0,1
+West Germany,2-0,Spain,1988,2,0,2
+Italy,2-0,Denmark,1988,2,0,2
+England,0-1,Republic of Ireland,1988,0,1,1
+Netherlands,0-1,Soviet Union,1988,0,1,1
+England,1-3,Netherlands,1988,1,3,4
+Republic of Ireland,1-1,Soviet Union,1988,1,1,2
+England,1-3,Soviet Union,1988,1,3,4
+Republic of Ireland,0-1,Netherlands,1988,0,1,1
+West Germany,1-2,Netherlands,1988,1,2,3
+Soviet Union,2-0,Italy,1988,2,0,2
+Soviet Union,0-2,Netherlands,1988,0,2,2
+Sweden,1-1,France,1992,1,1,2
+Denmark,0-0,England,1992,0,0,0
+France,0-0,England,1992,0,0,0
+Sweden,1-0,Denmark,1992,1,0,1
+Sweden,2-1,England,1992,2,1,3
+France,1-2,Denmark,1992,1,2,3
+Netherlands,1-0,Scotland,1992,1,0,1
+CIS,1-1,Germany,1992,1,1,2
+Scotland,0-2,Germany,1992,0,2,2
+Netherlands,0-0,CIS,1992,0,0,0
+Netherlands,3-1,Germany,1992,3,1,4
+Scotland,3-0,CIS,1992,3,0,3
+Sweden,2-3,Germany,1992,2,3,5
+Netherlands,2-2,Denmark,1992,2,2,4
+Denmark,2-0,Germany,1992,2,0,2
+England,1-1,Switzerland,1996,1,1,2
+Netherlands,0-0,Scotland,1996,0,0,0
+Switzerland,0-2,Netherlands,1996,0,2,2
+Scotland,0-2,England,1996,0,2,2
+Scotland,1-0,Switzerland,1996,1,0,1
+Netherlands,1-4,England,1996,1,4,5
+Spain,1-1,Bulgaria,1996,1,1,2
+Romania,0-1,France,1996,0,1,1
+Bulgaria,1-0,Romania,1996,1,0,1
+France,1-1,Spain,1996,1,1,2
+France,3-1,Bulgaria,1996,3,1,4
+Romania,1-2,Spain,1996,1,2,3
+Germany,2-0,Czech Republic,1996,2,0,2
+Italy,2-1,Russia,1996,2,1,3
+Czech Republic,2-1,Italy,1996,2,1,3
+Russia,0-3,Germany,1996,0,3,3
+Russia,3-3,Czech Republic,1996,3,3,6
+Italy,0-0,Germany,1996,0,0,0
+Denmark,1-1,Portugal,1996,1,1,2
+Turkey,0-1,Croatia,1996,0,1,1
+Portugal,1-0,Turkey,1996,1,0,1
+Croatia,3-0,Denmark,1996,3,0,3
+Croatia,0-3,Portugal,1996,0,3,3
+Turkey,0-3,Denmark,1996,0,3,3
+Spain,0-0,England,1996,0,0,0
+France,0-0,Netherlands,1996,0,0,0
+Germany,2-1,Croatia,1996,2,1,3
+Czech Republic,1-0,Portugal,1996,1,0,1
+France,0-0,Czech Republic,1996,0,0,0
+Germany,1-1,England,1996,1,1,2
+Czech Republic,1-2,Germany,1996,1,2,3
+Germany,1-1,Romania,2000,1,1,2
+Portugal,3-2,England,2000,3,2,5
+Romania,0-1,Portugal,2000,0,1,1
+England,1-0,Germany,2000,1,0,1
+England,2-3,Romania,2000,2,3,5
+Portugal,3-0,Germany,2000,3,0,3
+Belgium,2-1,Sweden,2000,2,1,3
+Turkey,1-2,Italy,2000,1,2,3
+Italy,2-0,Belgium,2000,2,0,2
+Sweden,0-0,Turkey,2000,0,0,0
+Turkey,2-0,Belgium,2000,2,0,2
+Italy,2-1,Sweden,2000,2,1,3
+Spain,0-1,Norway,2000,0,1,1
+FR Yugoslavia,3-3,Slovenia,2000,3,3,6
+Slovenia,1-2,Spain,2000,1,2,3
+Norway,0-1,FR Yugoslavia,2000,0,1,1
+FR Yugoslavia,3-4,Spain,2000,3,4,7
+Slovenia,0-0,Norway,2000,0,0,0
+France,3-0,Denmark,2000,3,0,3
+Netherlands,1-0,Czech Republic,2000,1,0,1
+Czech Republic,1-2,France,2000,1,2,3
+Denmark,0-3,Netherlands,2000,0,3,3
+Denmark,0-2,Czech Republic,2000,0,2,2
+France,2-3,Netherlands,2000,2,3,5
+Portugal,2-0,Turkey,2000,2,0,2
+Italy,2-0,Romania,2000,2,0,2
+Netherlands,6-1,FR Yugoslavia,2000,6,1,7
+Spain,1-2,France,2000,1,2,3
+France,2-1,Portugal,2000,2,1,3
+Italy,0-0,Netherlands,2000,0,0,0
+France,2-1,Italy,2000,2,1,3
+Portugal,1-2,Greece,2004,1,2,3
+Spain,1-0,Russia,2004,1,0,1
+Greece,1-1,Spain,2004,1,1,2
+Russia,0-2,Portugal,2004,0,2,2
+Spain,0-1,Portugal,2004,0,1,1
+Russia,2-1,Greece,2004,2,1,3
+Switzerland,0-0,Croatia,2004,0,0,0
+France,2-1,England,2004,2,1,3
+England,3-0,Switzerland,2004,3,0,3
+Croatia,2-2,France,2004,2,2,4
+Croatia,2-4,England,2004,2,4,6
+Switzerland,1-3,France,2004,1,3,4
+Denmark,0-0,Italy,2004,0,0,0
+Sweden,5-0,Bulgaria,2004,5,0,5
+Bulgaria,0-2,Denmark,2004,0,2,2
+Italy,1-1,Sweden,2004,1,1,2
+Italy,2-1,Bulgaria,2004,2,1,3
+Denmark,2-2,Sweden,2004,2,2,4
+Czech Republic,2-1,Latvia,2004,2,1,3
+Germany,1-1,Netherlands,2004,1,1,2
+Latvia,0-0,Germany,2004,0,0,0
+Netherlands,2-3,Czech Republic,2004,2,3,5
+Netherlands,3-0,Latvia,2004,3,0,3
+Germany,1-2,Czech Republic,2004,1,2,3
+Portugal,2-2,England,2004,2,2,4
+France,0-1,Greece,2004,0,1,1
+Sweden,0-0,Netherlands,2004,0,0,0
+Czech Republic,3-0,Denmark,2004,3,0,3
+Portugal,2-1,Netherlands,2004,2,1,3
+Greece,1-0,Czech Republic,2004,1,0,1
+Portugal,0-1,Greece,2004,0,1,1
+Switzerland,0-1,Czech Republic,2008,0,1,1
+Portugal,2-0,Turkey,2008,2,0,2
+Czech Republic,1-3,Portugal,2008,1,3,4
+Switzerland,1-2,Turkey,2008,1,2,3
+Switzerland,2-0,Portugal,2008,2,0,2
+Turkey,3-2,Czech Republic,2008,3,2,5
+Austria,0-1,Croatia,2008,0,1,1
+Germany,2-0,Poland,2008,2,0,2
+Croatia,2-1,Germany,2008,2,1,3
+Austria,1-1,Poland,2008,1,1,2
+Poland,0-1,Croatia,2008,0,1,1
+Austria,0-1,Germany,2008,0,1,1
+Romania,0-0,France,2008,0,0,0
+Netherlands,3-0,Italy,2008,3,0,3
+Italy,1-1,Romania,2008,1,1,2
+Netherlands,4-1,France,2008,4,1,5
+Netherlands,2-0,Romania,2008,2,0,2
+France,0-2,Italy,2008,0,2,2
+Spain,4-1,Russia,2008,4,1,5
+Greece,0-2,Sweden,2008,0,2,2
+Sweden,1-2,Spain,2008,1,2,3
+Greece,0-1,Russia,2008,0,1,1
+Greece,1-2,Spain,2008,1,2,3
+Russia,2-0,Sweden,2008,2,0,2
+Portugal,2-3,Germany,2008,2,3,5
+Croatia,1-1,Turkey,2008,1,1,2
+Netherlands,1-3,Russia,2008,1,3,4
+Spain,0-0,Italy,2008,0,0,0
+Germany,3-2,Turkey,2008,3,2,5
+Russia,0-3,Spain,2008,0,3,3
+Germany,0-1,Spain,2008,0,1,1
+Poland,1-1,Greece,2012,1,1,2
+Russia,4-1,Czech Republic,2012,4,1,5
+Greece,1-2,Czech Republic,2012,1,2,3
+Poland,1-1,Russia,2012,1,1,2
+Czech Republic,1-0,Poland,2012,1,0,1
+Greece,1-0,Russia,2012,1,0,1
+Netherlands,0-1,Denmark,2012,0,1,1
+Germany,1-0,Portugal,2012,1,0,1
+Denmark,2-3,Portugal,2012,2,3,5
+Netherlands,1-2,Germany,2012,1,2,3
+Portugal,2-1,Netherlands,2012,2,1,3
+Denmark,1-2,Germany,2012,1,2,3
+Spain,1-1,Italy,2012,1,1,2
+Republic of Ireland,1-3,Croatia,2012,1,3,4
+Italy,1-1,Croatia,2012,1,1,2
+Spain,4-0,Republic of Ireland,2012,4,0,4
+Croatia,0-1,Spain,2012,0,1,1
+Italy,2-0,Republic of Ireland,2012,2,0,2
+France,1-1,England,2012,1,1,2
+Ukraine,2-1,Sweden,2012,2,1,3
+Ukraine,0-2,France,2012,0,2,2
+Sweden,2-3,England,2012,2,3,5
+England,1-0,Ukraine,2012,1,0,1
+Sweden,2-0,France,2012,2,0,2
+Czech Republic,0-1,Portugal,2012,0,1,1
+Germany,4-2,Greece,2012,4,2,6
+Spain,2-0,France,2012,2,0,2
+England,0-0,Italy,2012,0,0,0
+Portugal,0-0,Spain,2012,0,0,0
+Germany,1-2,Italy,2012,1,2,3
+Spain,4-0,Italy,2012,4,0,4
+France,2-1,Romania,2016,2,1,3
+Albania,0-1,Switzerland,2016,0,1,1
+Romania,1-1,Switzerland,2016,1,1,2
+France,2-0,Albania,2016,2,0,2
+Romania,0-1,Albania,2016,0,1,1
+Switzerland,0-0,France,2016,0,0,0
+Wales,2-1,Slovakia,2016,2,1,3
+England,1-1,Russia,2016,1,1,2
+Russia,1-2,Slovakia,2016,1,2,3
+England,2-1,Wales,2016,2,1,3
+Russia,0-3,Wales,2016,0,3,3
+Slovakia,0-0,England,2016,0,0,0
+Poland,1-0,Northern Ireland,2016,1,0,1
+Germany,2-0,Ukraine,2016,2,0,2
+Ukraine,0-2,Northern Ireland,2016,0,2,2
+Germany,0-0,Poland,2016,0,0,0
+Ukraine,0-1,Poland,2016,0,1,1
+Northern Ireland,0-1,Germany,2016,0,1,1
+Turkey,0-1,Croatia,2016,0,1,1
+Spain,1-0,Czech Republic,2016,1,0,1
+Czech Republic,2-2,Croatia,2016,2,2,4
+Spain,3-0,Turkey,2016,3,0,3
+Czech Republic,0-2,Turkey,2016,0,2,2
+Croatia,2-1,Spain,2016,2,1,3
+Republic of Ireland,1-1,Sweden,2016,1,1,2
+Belgium,0-2,Italy,2016,0,2,2
+Italy,1-0,Sweden,2016,1,0,1
+Belgium,3-0,Republic of Ireland,2016,3,0,3
+Italy,0-1,Republic of Ireland,2016,0,1,1
+Sweden,0-1,Belgium,2016,0,1,1
+Austria,0-2,Hungary,2016,0,2,2
+Portugal,1-1,Iceland,2016,1,1,2
+Iceland,1-1,Hungary,2016,1,1,2
+Portugal,0-0,Austria,2016,0,0,0
+Iceland,2-1,Austria,2016,2,1,3
+Hungary,3-3,Portugal,2016,3,3,6
+Switzerland,1-1,Poland,2016,1,1,2
+Wales,1-0,Northern Ireland,2016,1,0,1
+Croatia,0-1,Portugal,2016,0,1,1
+France,2-1,Republic of Ireland,2016,2,1,3
+Germany,3-0,Slovakia,2016,3,0,3
+Hungary,0-4,Belgium,2016,0,4,4
+Italy,2-0,Spain,2016,2,0,2
+England,1-2,Iceland,2016,1,2,3
+Poland,1-1,Portugal,2016,1,1,2
+Wales,3-1,Belgium,2016,3,1,4
+Germany,1-1,Italy,2016,1,1,2
+France,5-2,Iceland,2016,5,2,7
+Portugal,2-0,Wales,2016,2,0,2
+Germany,0-2,France,2016,0,2,2
+Portugal,1-0,France,2016,1,0,1
+Turkey,0-3,Italy,2020,0,3,3
+Wales,1-1,Switzerland,2020,1,1,2
+Turkey,0-2,Wales,2020,0,2,2
+Italy,3-0,Switzerland,2020,3,0,3
+Switzerland,3-1,Turkey,2020,3,1,4
+Italy,1-0,Wales,2020,1,0,1
+Denmark,0-1,Finland,2020,0,1,1
+Belgium,3-0,Russia,2020,3,0,3
+Finland,0-1,Russia,2020,0,1,1
+Denmark,1-2,Belgium,2020,1,2,3
+Russia,1-4,Denmark,2020,1,4,5
+Finland,0-2,Belgium,2020,0,2,2
+Austria,3-1,North Macedonia,2020,3,1,4
+Netherlands,3-2,Ukraine,2020,3,2,5
+Ukraine,2-1,North Macedonia,2020,2,1,3
+Netherlands,2-0,Austria,2020,2,0,2
+North Macedonia,0-3,Netherlands,2020,0,3,3
+Ukraine,0-1,Austria,2020,0,1,1
+England,1-0,Croatia,2020,1,0,1
+Scotland,0-2,Czech Republic,2020,0,2,2
+Croatia,1-1,Czech Republic,2020,1,1,2
+England,0-0,Scotland,2020,0,0,0
+Croatia,3-1,Scotland,2020,3,1,4
+Czech Republic,0-1,England,2020,0,1,1
+Poland,1-2,Slovakia,2020,1,2,3
+Spain,0-0,Sweden,2020,0,0,0
+Sweden,1-0,Slovakia,2020,1,0,1
+Spain,1-1,Poland,2020,1,1,2
+Slovakia,0-5,Spain,2020,0,5,5
+Sweden,3-2,Poland,2020,3,2,5
+Hungary,0-3,Portugal,2020,0,3,3
+France,1-0,Germany,2020,1,0,1
+Hungary,1-1,France,2020,1,1,2
+Portugal,2-4,Germany,2020,2,4,6
+Portugal,2-2,France,2020,2,2,4
+Germany,2-2,Hungary,2020,2,2,4
+Wales,0-4,Denmark,2020,0,4,4
+Italy,2-1,Austria,2020,2,1,3
+Netherlands,0-2,Czech Republic,2020,0,2,2
+Belgium,1-0,Portugal,2020,1,0,1
+Croatia,3-5,Spain,2020,3,5,8
+France,3-3,Switzerland,2020,3,3,6
+England,2-0,Germany,2020,2,0,2
+Sweden,1-2,Ukraine,2020,1,2,3
+Switzerland,1-1,Spain,2020,1,1,2
+Belgium,1-2,Italy,2020,1,2,3
+Czech Republic,1-2,Denmark,2020,1,2,3
+Ukraine,0-4,England,2020,0,4,4
+Italy,1-1,Spain,2020,1,1,2
+England,2-1,Denmark,2020,2,1,3
+Italy,1-1,England,2020,1,1,2
